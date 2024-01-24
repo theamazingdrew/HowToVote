@@ -4,7 +4,7 @@ How To Vote - An open source book on how to vote in free elections
 How To Vote is a politically agnostic framework for assessing candidates for their fitness for office. 
 
 # Contributing
-Community contribution is welcome and encouraged. Feel free to send pull requests. If you don't know how, give it a quick search, it's easy.
+Community contribution is welcome and encouraged. Feel free to send pull requests. If you don't know how, click "Issues" at the top of this page and file it as an issue.
 
 # How It Started
 I vividly remember a conversation I had in the summer of 2016; I had recently been elected as a backup delegate for the Republican party representing my neighborhood. (I had not attended the meeting nor had I campaigned for the position, but somebody thought I'd do a good job and nominated me and I won.) With this newfound responsibility, I set about the task of attempting to understand the needs, beliefs, and desires of the people in my neighborhood so as to effectively represent them in our caucus. 
