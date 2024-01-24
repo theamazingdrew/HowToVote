@@ -28,7 +28,7 @@ Key assumptions are as follows:
 2. Everything is trade-offs. What makes a candidate strong can also be a weakness.
 3. No assessment model is perfect. The tradeoff of comprehensiveness and practicality will always exist. Reducing people to a scoresheet is imperfect; writing a 1000 page analysis on each individual will never be read.
 4. Objective right and wrong, good and bad, do exist. Understanding what that might be is hard, and applying to to individual circumstances harder, but is a worthy endeavor
-
+5. Substantiate where possible. If your suggestion is an argument for something, back that argument up. Data sources, quotes, (high quality) academic papers, etc. are valued. Example: "Science says X" is bad. "Professors W in Journal of X 2007, article titled Y concluded Z" is good.
 
 
 
