@@ -15,7 +15,7 @@ To find these assessment frameworks, I reached out to a political science profes
 
 This was not an isolated incident. I had a similar conversation with another professor. This professor was dismissive of the idea altogether, as though it were naïve to try to put rigor into the analysis of a candidate for fitness of office. I was stunned. 
 
-I Googled for research, but found nothing of value. Did nobody know how to think through a candidate's fitness? Of course this basic idea has crossed many people's minds, but had anyone done it and released it? I didn't find it. Over the intervening years I periodically checked. During the '20 presidential cycle I looked hard again, but found nothing that went beneath the surface. 
+I Googled for research, but found nothing of value. Did nobody know how to think through a candidate's fitness? Of course this basic idea has crossed many people's minds, but had anyone created anything beyond superficial and released it? I didn't find it. Over the intervening years I periodically checked. During the '20 presidential cycle I looked hard again, but found nothing that went beneath the surface. 
 
 I never found what I'm looking for, so I'm building it. 
 
